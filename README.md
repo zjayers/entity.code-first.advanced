@@ -1,8 +1,7 @@
 # Entity Code-First Advanced
-[![GitHub Release](https://img.shields.io/github/release/zjayers/entity.code-first.advanced.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/entity.code-first.advanced.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/entity.code-first.advanced.svg?style=flat)](https://github.com/zjayers/entity.code-first.advanced/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/entity.code-first.advanced.svg?style=flat)](https://github.com/zjayers/entity.code-first.advanced/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/entity.code-first.advanced.svg?maxAge=25000)](https://github.com/zjayers/entity.code-first.advanced/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/entity.code-first.advanced/blob/master/LICENSEs)
 
 ## Description
 
